@@ -1,0 +1,3 @@
+# SK=django-insecure-7zi!nx(smfx$z(dx5)^-h@+j7&5d9to0g*=o-)#1e53z*=^l@y
+
+os.environ["SECRET_KEY"] = "efq+x&mvr4eos#0ht37qq=^a0=c)rt^-oqvyh+u$s1%5&80&jp"
